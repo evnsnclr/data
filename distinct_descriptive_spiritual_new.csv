@@ -1,0 +1,164 @@
+DOCUMENT_CLINICAL_NM,STRUCTURED_NOTE_SECTION_DESC,STRUCTURED_NOTE_LINE_DESC,STRUCTURED_RESULT_TYPE_DESC,count
+Distress Screening,Distress Screening,Religious and Spiritual Concerns,Religious and Spiritual Concerns,16127
+Distress Screening,Religious and Spiritual Concerns,Date\Time Correction,Religious and Spiritual Concerns,38
+EHC-Spiritual Health Pastoral Care,Advance Directives,Date\Time Correction,Spiritual Health Advance Directives,2
+EHC-Spiritual Health Pastoral Care,Advance Directives Pastoral Care,Date\Time Correction,Spiritual Health Advance Directives,13
+EHC-Spiritual Health Pastoral Care,Chaplain,Date\Time Correction,Spiritual Health Clinician Seeing Pt,259
+EHC-Spiritual Health Pastoral Care,Chaplian Role,Date\Time Correction,Spiritual Health Clinician Role,244
+EHC-Spiritual Health Pastoral Care,Clinician Facility,Date\Time Correction,Spiritual Health Clinician Facility,15
+EHC-Spiritual Health Pastoral Care,Clinician Role,Date\Time Correction,Spiritual Health Clinician Role,15
+EHC-Spiritual Health Pastoral Care,Clinician Seeing Pt,Date\Time Correction,Spiritual Health Clinician Seeing Pt,16
+EHC-Spiritual Health Pastoral Care,Code Outcome Patoral Care,Date\Time Correction,Code Outcome Patoral Care,2
+EHC-Spiritual Health Pastoral Care,Code Pastoral Care,Date\Time Correction,Code Pastoral Care,1
+EHC-Spiritual Health Pastoral Care,Comments Pastoral Care,Date\Time Correction,Comments Pastoral Care,2
+EHC-Spiritual Health Pastoral Care,Communion Pastoral Care,Date\Time Correction,Communion Pastoral Care,24
+EHC-Spiritual Health Pastoral Care,Consult Context,Date\Time Correction,Spiritual Health Consult Context,16
+EHC-Spiritual Health Pastoral Care,Consult Status,Date\Time Correction,Spiritual Health Consult Status,15
+EHC-Spiritual Health Pastoral Care,Consult Type,Date\Time Correction,Spiritual Health Consult Type,15
+EHC-Spiritual Health Pastoral Care,Context for Pastoral Visit,Date\Time Correction,Spiritual Health Consult Context,230
+EHC-Spiritual Health Pastoral Care,Denomination Pastoral Care,Date\Time Correction,Denomination Pastoral Care,24
+EHC-Spiritual Health Pastoral Care,Distress,Date\Time Correction,Spiritual Health Distress,3
+EHC-Spiritual Health Pastoral Care,Dying Process/Death Pastoral Care,Date\Time Correction,Dying Process/Death Pastoral Care,5
+EHC-Spiritual Health Pastoral Care,EHC Pastoral-Spiritual Care Response,Date\Time Correction,Spiritual Health Pastoral Care Form,259
+EHC-Spiritual Health Pastoral Care,EHC Pastoral-Spiritual Care Response,EHC Pastoral-Spiritual Care Response,Spiritual Health Pastoral Care Form,139644
+EHC-Spiritual Health Pastoral Care,EHC Pastoral-Spiritual Care Response,Pastoral/Spiritual Assessment,DCP GENERIC CODE,20278
+EHC-Spiritual Health Pastoral Care,EHC Pastoral-Spiritual Care Response,Pastoral/Spiritual General Information,DCP GENERIC CODE,139644
+EHC-Spiritual Health Pastoral Care,EHC Pastoral-Spiritual Care Response,Pastoral/Spiritual Services,DCP GENERIC CODE,135229
+EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,Date\Time Correction,Spiritual Health Pastoral Care Form,15
+EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,Spiritual Health Pastoral Care Form,6458
+EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,DCP GENERIC CODE,5273
+EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,DCP GENERIC CODE,6458
+EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,Spiritual Health Intervention,DCP GENERIC CODE,5084
+EHC-Spiritual Health Pastoral Care,EHC-Spiritual Health Pastoral Care,Spiritual Health Outcome/Follow Up,DCP GENERIC CODE,6082
+EHC-Spiritual Health Pastoral Care,Emotional State,Date\Time Correction,Spiritual Health Emotional State,12
+EHC-Spiritual Health Pastoral Care,Family Member,Date\Time Correction,Spiritual Health Family Member,1
+EHC-Spiritual Health Pastoral Care,Family Member Pastoral Care,Date\Time Correction,Spiritual Health Family Member,63
+EHC-Spiritual Health Pastoral Care,Family Support Pastoral Care,Date\Time Correction,Family Support Pastoral Care,39
+EHC-Spiritual Health Pastoral Care,Follow Up,Date\Time Correction,Spiritual Health Follow Up,13
+EHC-Spiritual Health Pastoral Care,Follow Up Add’l Info,Date\Time Correction,Spiritual Health Follow Up Addl Info,1
+EHC-Spiritual Health Pastoral Care,Friend Pastoral Care,Date\Time Correction,Spiritual Health Friend,4
+EHC-Spiritual Health Pastoral Care,Importance of Faith Practice,Date\Time Correction,Importance of Faith Practice,39
+EHC-Spiritual Health Pastoral Care,Intervention,Date\Time Correction,Spiritual Health Intervention,13
+EHC-Spiritual Health Pastoral Care,Length of Consult,Date\Time Correction,Spiritual Health Length of Consult,15
+EHC-Spiritual Health Pastoral Care,Outcome,Date\Time Correction,Spiritual Health Outcome,10
+EHC-Spiritual Health Pastoral Care,Outside Spiritual Care Known,Date\Time Correction,Outside Spiritual Care Known,38
+EHC-Spiritual Health Pastoral Care,Participation in Spiritual/Religious Community,Date\Time Correction,Participation Spiritual/Religious Comm,35
+EHC-Spiritual Health Pastoral Care,Pastoral Care Sacrament Reason,Date\Time Correction,Pastoral Care Sacrament Reason,3
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Comments Pastoral Care,Comments Pastoral Care,951
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Denomination Pastoral Care,Denomination Pastoral Care,11887
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Family Support Pastoral Care,Family Support Pastoral Care,17836
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Importance of Faith Practice,Importance of Faith Practice,17462
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Participation in Spiritual/Religious Community,Participation Spiritual/Religious Comm,14063
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Religious Background Pastoral Care,Religious Background Pastoral Care,17033
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Special Issues to Address Pastoral Care,Special Issues to Address Pastoral Care,1317
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Spiritual Health Pastoral Care,Spiritual Health Pastoral Care,17928
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Assessment,Values Beliefs Impacting Pastoral Care,Values Beliefs Impacting Pastoral Care,14246
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Chaplain,Spiritual Health Clinician Seeing Pt,139607
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Chaplian Role,Spiritual Health Clinician Role,135802
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Family Member Pastoral Care,Spiritual Health Family Member,29948
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Friend Pastoral Care,Spiritual Health Friend,1296
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Outside Spiritual Care Known,Outside Spiritual Care Known,6809
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Religous Preference Test,Spiritual Health Religious Preference,98653
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Spiritual Assessment Needed,Spiritual Assessment Needed,64078
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Status of Visit Pastoral Care,Spiritual Health Consult Status,129479
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual General Information,Type of Encounter Pastoral Care,Spiritual Health Consult Type,131935
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Advance Directives Pastoral Care,Spiritual Health Advance Directives,6891
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Code Comments Pastoral Care,Code Comments Pastoral Care,367
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Code Outcome Patoral Care,Code Outcome Patoral Care,1471
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Code Pastoral Care,Code Pastoral Care,1531
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Communion Pastoral Care,Communion Pastoral Care,6669
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Confession/Reconciliation Pastoral Care,Confession/Reconciliation Pastoral Care,961
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Context for Pastoral Visit,Spiritual Health Consult Context,129767
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Dying Process/Death Pastoral Care,Dying Process/Death Pastoral Care,1906
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Funeral Home Contact Information,Funeral Home Contact Information,163
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Life Link Contact Pastoral Care,Life Link Contact Pastoral Care,309
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Pastoral Care Sacrament Reason,Pastoral Care Sacrament Reason,812
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Pastoral Support Pastoral Care,Pastoral Support Pastoral Care,3
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Post-op Pastoral Care,Post-op Pastoral Care,1130
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Pre-op Pastoral Care,Pre-op Pastoral Care,8777
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Sacrament of the Sick Pastoral Care,Sacrament of the Sick Pastoral Care,2239
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Stroke Alert Pastoral Care,Stroke Alert Pastoral Care,665
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Type of Pastoral Service,Type of Pastoral Service,111302
+EHC-Spiritual Health Pastoral Care,Pastoral/Spiritual Services,Visit Notes Pastoral Care,Spiritual Health Summary Notes,108617
+EHC-Spiritual Health Pastoral Care,Post-op Pastoral Care,Date\Time Correction,Post-op Pastoral Care,2
+EHC-Spiritual Health Pastoral Care,Pre-op Pastoral Care,Date\Time Correction,Pre-op Pastoral Care,11
+EHC-Spiritual Health Pastoral Care,Primary Focus of Consult,Date\Time Correction,Spiritual Health Primary Focus of Consul,7
+EHC-Spiritual Health Pastoral Care,Religious Background Pastoral Care,Date\Time Correction,Religious Background Pastoral Care,36
+EHC-Spiritual Health Pastoral Care,Religious Care,Date\Time Correction,Spiritual Health Religious Care,1
+EHC-Spiritual Health Pastoral Care,Religious Preference,Date\Time Correction,Spiritual Health Religious Preference,11
+EHC-Spiritual Health Pastoral Care,Religous Preference Test,Date\Time Correction,Spiritual Health Religious Preference,200
+EHC-Spiritual Health Pastoral Care,Resources,Date\Time Correction,Spiritual Health Resources,11
+EHC-Spiritual Health Pastoral Care,Sacrament of the Sick Pastoral Care,Date\Time Correction,Sacrament of the Sick Pastoral Care,4
+EHC-Spiritual Health Pastoral Care,Special Issues to Address Pastoral Care,Date\Time Correction,Special Issues to Address Pastoral Care,1
+EHC-Spiritual Health Pastoral Care,Spiritual Assessment Needed,Date\Time Correction,Spiritual Assessment Needed,137
+EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,Distress,Spiritual Health Distress,1759
+EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,Distress Add'l Info,Spiritual Health Distress Add'l Info,344
+EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,Emotional State,Spiritual Health Emotional State,4466
+EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,Religious Preference,Spiritual Health Religious Preference,4309
+EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,Resources,Spiritual Health Resources,4339
+EHC-Spiritual Health Pastoral Care,Spiritual Health Assessment,Resources Add'l Info,Spiritual Health Resources Add'l Info,167
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Clinician Facility,Spiritual Health Clinician Facility,6377
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Clinician Role,Spiritual Health Clinician Role,6248
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Clinician Seeing Pt,Spiritual Health Clinician Seeing Pt,6469
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Consult Context,Spiritual Health Consult Context,5909
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Consult Status,Spiritual Health Consult Status,5981
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Consult Type,Spiritual Health Consult Type,6243
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Family Member,Spiritual Health Family Member,608
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Family/Friend/Caregiver Relationship and Name,Spiritual Health Family Member,816
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Friend,Spiritual Health Friend,29
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Funeral Home Note,Spiritual Health Funeral Home Note,2
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Length of Consult,Spiritual Health Length of Consult,5659
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Life Link Note,Spiritual Health Life Link Note,7
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Primary Focus of Consult,Spiritual Health Primary Focus of Consul,2902
+EHC-Spiritual Health Pastoral Care,Spiritual Health General Information,Provider,Spiritual Health Provider,12
+EHC-Spiritual Health Pastoral Care,Spiritual Health Intervention,Advance Directives,Spiritual Health Advance Directives,357
+EHC-Spiritual Health Pastoral Care,Spiritual Health Intervention,Community Religious Provider,Spiritual Health Comm Religious Provider,62
+EHC-Spiritual Health Pastoral Care,Spiritual Health Intervention,Intervention,Spiritual Health Intervention,4884
+EHC-Spiritual Health Pastoral Care,Spiritual Health Intervention,Intervention Note,Spiritual Health Intervention Note,385
+EHC-Spiritual Health Pastoral Care,Spiritual Health Intervention,Religious Care,Spiritual Health Religious Care,291
+EHC-Spiritual Health Pastoral Care,Spiritual Health Outcome/Follow Up,Follow Up,Spiritual Health Follow Up,4584
+EHC-Spiritual Health Pastoral Care,Spiritual Health Outcome/Follow Up,Follow Up Add’l Info,Spiritual Health Follow Up Addl Info,100
+EHC-Spiritual Health Pastoral Care,Spiritual Health Outcome/Follow Up,Outcome,Spiritual Health Outcome,4552
+EHC-Spiritual Health Pastoral Care,Spiritual Health Outcome/Follow Up,Outcome Additional Info,Spiritual Health Outcome Additional Info,77
+EHC-Spiritual Health Pastoral Care,Spiritual Health Outcome/Follow Up,Summary Notes,Spiritual Health Summary Notes,3274
+EHC-Spiritual Health Pastoral Care,Spiritual Health Pastoral Care,Date\Time Correction,Spiritual Health Pastoral Care,38
+EHC-Spiritual Health Pastoral Care,Status of Visit Pastoral Care,Date\Time Correction,Spiritual Health Consult Status,252
+EHC-Spiritual Health Pastoral Care,Summary Notes,Date\Time Correction,Spiritual Health Summary Notes,7
+EHC-Spiritual Health Pastoral Care,Type of Encounter Pastoral Care,Date\Time Correction,Spiritual Health Consult Type,250
+EHC-Spiritual Health Pastoral Care,Type of Pastoral Service,Date\Time Correction,Type of Pastoral Service,193
+EHC-Spiritual Health Pastoral Care,Values Beliefs Impacting Pastoral Care,Date\Time Correction,Values Beliefs Impacting Pastoral Care,34
+EHC-Spiritual Health Pastoral Care,Visit Notes Pastoral Care,Date\Time Correction,Spiritual Health Summary Notes,197
+EHC_Education Cardiology Services,Discrete Grid,Spiritual Resources,Ed-Spiritual Resources,4
+EHC_Education Transplant,Discrete Grid,Spiritual Resources,Ed-Spiritual Resources,74
+Not Recorded,Pastoral Care Consult,Pastoral Care Consult,Pastoral Care Consult,412
+Not Recorded,Pastoral Care Consult PreOp Visit,Pastoral Care Consult PreOp Visit,Pastoral Care Consult PreOp Visit,95
+Not Recorded,Patient Intake,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,4138
+Not Recorded,Patient Intake Short Stay,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,482
+Patient Intake,Cultural Spiritual Practices To Continue,Date\Time Correction,Cultural Spiritual Practices To Continue,5
+Patient Intake,Cultural/Social,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,8166
+Patient Intake Short Stay,Cultural/Social Short Stay,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,384
+REH Case Management Initial Evaluation,Cultural Spiritual Practices To Continue,Date\Time Correction,Cultural Spiritual Practices To Continue,2
+REH Case Management Initial Evaluation,REH Patient Intake Cultural Social,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,1305
+REH OT Evaluation Inpatient,REH General Information OT,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,19
+REH OT Evaluation Inpatient,REH General Information OT,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,1450
+REH OT Evaluation Outpatient,REH General Information OT,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,1
+REH OT Evaluation Outpatient,REH General Information OT,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,199
+REH PT Evaluation Inpatient,REH General Information PT,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,7
+REH PT Evaluation Inpatient,REH General Information PT,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,1148
+REH PT Evaluation Outpatient,Culture/Spiritual Beliefs to Incorporate,Date\Time Correction,Culture/Spiritual Beliefs to Incorporate,3
+REH PT Evaluation Outpatient,REH General Information PT,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,30
+REH PT Evaluation Outpatient,REH General Information PT,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,3166
+REH SLP Clinical Swallow Eval Inpatient,Culture/Spiritual Beliefs to Incorporate,Date\Time Correction,Culture/Spiritual Beliefs to Incorporate,2
+REH SLP Clinical Swallow Eval Inpatient,REH General Information SLP,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,8
+REH SLP Clinical Swallow Eval Inpatient,REH General Information SLP,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,466
+REH SLP Clinical Swallow Eval Outpatient,REH General Information SLP,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,39
+REH SLP Cognitive Communication Eval IP,Culture/Spiritual Beliefs to Incorporate,Date\Time Correction,Culture/Spiritual Beliefs to Incorporate,1
+REH SLP Cognitive Communication Eval IP,REH General Information SLP,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,28
+REH SLP Cognitive Communication Eval IP,REH General Information SLP,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,937
+REH SLP Cognitive Communication Eval OP,REH General Information SLP,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,6
+REH SLP Cognitive Communication Eval OP,REH General Information SLP,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,520
+REH SLP Modified Barium Swallow,REH General Information SLP,Cultural Spiritual Practices To Continue,Cultural Spiritual Practices To Continue,9
+REH SLP Modified Barium Swallow,REH General Information SLP,Culture/Spiritual Beliefs to Incorporate,Culture/Spiritual Beliefs to Incorporate,301
+Secondary Assessment EUH,Goals of Care Assessment,Chaplain Consult,Chaplain Consult,1
+Secondary Assessment EUH,Overwhelmed Assessment,Chaplain Consult,Chaplain Consult,1
+Secondary Assessment EUH,SPEED Screening for Cancer Patient,Chaplain Consult,Chaplain Consult,354
